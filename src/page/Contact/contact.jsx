@@ -4,7 +4,7 @@ import './contact.css'
 export const Contact = () => {
     return (
         <div>
-             <img src={saveWater} />
+             <img src={saveWater} alt="bg Image"/>
             <div className="contactContainer">
                     <h3 className="myName">Kevin Patel</h3>
                     <p>The Sparks Foundation</p>
