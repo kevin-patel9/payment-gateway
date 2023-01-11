@@ -1,0 +1,42 @@
+.aboutContainer{
+    display: grid;
+    gap: 2.6rem;
+    position: absolute;
+    top: 16%;
+    left: 16%;
+}
+
+.about{
+    border: 4px rgb(40, 126, 255) solid;
+    width: 80%;
+    background-color: rgba(85, 201, 255, 0.94);
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+}
+
+.about h2{
+    color: rgb(0, 0, 226);
+    font-family: cursive, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-bottom: 1rem;
+    font-weight: 600;
+}
+
+.about p{
+    color: rgb(46, 46, 46);
+    font-family: cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bg-image{
+    height: 46rem;
+}
+
+@media screen and (max-width: 900px) {
+    .about{
+        width: 90%;
+    }
+
+    .bg-image{
+        height: 66rem;
+    }
+}
