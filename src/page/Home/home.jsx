@@ -6,7 +6,7 @@ export const Home = () => {
   return (
     <div>
       <div className="save-water">
-        <img src={saveWater} alt="bg Image" />
+        <img src={saveWater} alt="bg" />
       </div>
       <div className="homeContainer">
         <div className="home">

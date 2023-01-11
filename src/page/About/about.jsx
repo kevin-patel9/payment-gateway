@@ -4,7 +4,7 @@ import "./about.css";
 export const About = () => {
   return (
     <div>
-      <img src={saveWater} className="bg-image" alt="bg Image" />
+      <img src={saveWater} className="bg-image" alt="bg" />
       <div className="aboutContainer">
         <div className="about">
           <h2>About Us</h2>
