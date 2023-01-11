@@ -1,4 +1,4 @@
-import saveWater from "../../component.jsx/save-water.png";
+import saveWater from "../../component/save-water.png";
 import "./about.css";
 
 export const About = () => {

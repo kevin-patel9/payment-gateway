@@ -1,5 +1,5 @@
 import { Button } from "react-bootstrap";
-import saveWater from "../../component.jsx/save-water.png";
+import saveWater from "../../component/save-water.png";
 import "./home.css";
 
 export const Home = () => {

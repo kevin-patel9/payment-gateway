@@ -2,7 +2,7 @@ import {BrowserRouter , Routes, Route}  from 'react-router-dom';
 import { Home } from './page/Home/home';
 import { About } from './page/About/about';
 import { Contact } from './page/Contact/contact';
-import { NavbarItem } from './component.jsx/navbar';
+import { NavbarItem } from './component/navbar';
 import { Footer } from './page/footer';
 
 function App() {
